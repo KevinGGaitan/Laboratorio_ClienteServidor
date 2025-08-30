@@ -98,5 +98,7 @@ make clean
 
 ## Autor
 Juan Esteban Bello Durango  
+Kevin Garay
+Arley Bernal
 Pontificia Universidad Javeriana  
 Sistemas Distribuidos
